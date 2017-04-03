@@ -1,0 +1,4 @@
+[libs]
+
+[ignore]
+<PROJECT_ROOT>/testLib/*
